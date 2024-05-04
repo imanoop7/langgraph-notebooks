@@ -5,4 +5,5 @@
 # will be adding more notebooks related to langgraph 
 
 1. langgraph
-2. langgraph-email-agent
+2. langgraph-2
+2. langgraph-email
