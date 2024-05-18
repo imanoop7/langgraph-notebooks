@@ -21,8 +21,4 @@ Welcome to the **LangGraph Application** repository! LangGraph is a powerful age
    - `langgraph-2.ipynb`: Dive deeper into LangGraph's capabilities.
    - `langgraph-email.ipynb`: Explore LangGraph's email integration.
 
-3. **Customize and Experiment**:
-   - Modify LangGraph to suit your specific agent-based projects.
-   - Experiment with different agent configurations and tasks.
-
 Feel free to explore, learn, and contribute to LangGraph! 🚀🤖
