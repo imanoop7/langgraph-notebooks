@@ -10,6 +10,7 @@ Welcome to the **LangGraph Application** repository! LangGraph is a powerful age
   - `langgraph.ipynb`: Basic LangGraph implementation.
   - `langgraph-2.ipynb`: Advanced LangGraph features.
   - `langgraph-email.ipynb`: Integrating LangGraph with email communication.
+  - `demo_production_based_langgraph.ipynb` : simple production application.
 
 ## Getting Started
 
